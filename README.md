@@ -1,5 +1,6 @@
 # Custom-Token-on-Polygon-Network
 This is a contract which deploys custom token into the Polygon network
+(pls, refer to https://forum.openzeppelin.com/t/deploy-a-simple-erc20-token-in-remix/1203)
 
 ![image](https://user-images.githubusercontent.com/46632676/152733400-731a53c4-ed6b-42c6-9338-45d70c15506e.png)
 
