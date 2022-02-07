@@ -20,6 +20,13 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.4.0-solc-
 6. open transaction info and copy contract address
 7. import your token
 
+---
+
+## Example of transaction info after the contract deploying into ```Polygon Mumbai testnet```:
+
+![image](https://user-images.githubusercontent.com/46632676/152734432-b111be87-081c-42c8-ba2b-4a9f7be1f10f.png)
+
+
 
 
 
